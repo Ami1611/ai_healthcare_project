@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Heart Disease Prediction</title>
+    <style>
+        body { font-family: Arial; max-width: 600px; margin: auto; padding: 20px; }
+        label { display: block; margin-top: 10px; }
+        input { width: 100%; padding: 5px; }
+        button { margin-top: 20px; padding: 10px 20px; }
+        .result { margin-top: 20px; font-weight: bold; color: green; }
+    </style>
+</head>
+<body>
+    <h1>Heart Disease Prediction</h1>
+    <form id="prediction-form">
+        {% for f in features %}
+        <label>{{ f }}</label>
+        <input type="number" step="any" name="{{ f }}" required>
+        {% endfor %}
+        <button type="submit">Predict</button>
+    </form>
+    <div id="result" class="result"></div>
+
+    <script>
+        const form = document.getElementById('prediction-form');
+        form.addEventListener('submit', async function(e) {
+            e.preventDefault();
+            const formData = new FormData(form);
+            let features = {};
+            for (let [key, value] of formData.entries()) {
+                features[key] = parseFloat(value);
+            }
+            try {
+                const response = await fetch('/', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ features: features })
+                });
+                const data = await response.json();
+                document.getElementById('result').innerHTML = 
+                    `Prediction: ${data.prediction} <br> Probability: ${data.probability.toFixed(2)}`;
+            } catch (err) {
+                document.getElementById('result').innerHTML = 'Error: ' + err;
+            }
+        });
+    </script>
+</body>
+</html>
