@@ -2,34 +2,92 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>AI Healthcare - Heart Disease Prediction</title>
+  <title>Heart Disease Prediction</title>
   <style>
-    body { font-family: Arial; text-align: center; background: #f4f6f8; }
-    form { margin: 20px auto; width: 400px; background: #fff; padding: 20px; border-radius: 10px; }
-    input { margin: 5px; padding: 8px; width: 80%; }
-    button { padding: 10px 20px; background: #007BFF; color: white; border: none; border-radius: 5px; }
-    h2 { color: #333; }
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background: linear-gradient(135deg, #74ebd5, #ACB6E5);
+      color: #333;
+      text-align: center;
+      padding: 30px;
+    }
+    .container {
+      background: white;
+      max-width: 700px;
+      margin: auto;
+      padding: 25px;
+      border-radius: 15px;
+      box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+    }
+    input, select {
+      width: 80%;
+      padding: 10px;
+      margin: 10px 0;
+      border: 1px solid #ccc;
+      border-radius: 8px;
+      font-size: 14px;
+    }
+    button {
+      background-color: #007bff;
+      color: white;
+      padding: 10px 20px;
+      border: none;
+      border-radius: 8px;
+      cursor: pointer;
+      font-size: 15px;
+    }
+    button:hover { background-color: #0056b3; }
+    .result {
+      margin-top: 20px;
+      font-size: 18px;
+      font-weight: bold;
+      background-color: #f1f8ff;
+      border-radius: 10px;
+      padding: 15px;
+    }
+    .reset-btn {
+      background-color: #6c757d;
+      margin-top: 10px;
+    }
+    .reset-btn:hover {
+      background-color: #5a6268;
+    }
   </style>
 </head>
 <body>
-  <h2>AI Heart Disease Predictor 💖</h2>
-  <form action="/predict" method="post">
-    <input type="number" step="any" name="age" placeholder="Age" required><br>
-    <select name="sex">
-      <option value="1">Male</option>
-      <option value="0">Female</option>
-    </select><br>
-    <input type="number" step="any" name="trestbps" placeholder="Resting Blood Pressure" required><br>
-    <input type="number" step="any" name="chol" placeholder="Cholesterol" required><br>
-    <input type="number" step="any" name="thalach" placeholder="Max Heart Rate" required><br>
-    <input type="number" step="any" name="oldpeak" placeholder="ST Depression" required><br>
-    <input type="number" step="any" name="ca" placeholder="Major Vessels (0-3)" required><br>
-    <input type="number" step="any" name="thal" placeholder="Thalassemia (1–3)" required><br>
-    <button type="submit">Predict</button>
-  </form>
+  <div class="container">
+    <h2>💓 Heart Disease Prediction System</h2>
+    <form action="/predict" method="post" id="predictForm">
+      <input type="number" step="any" name="age" placeholder="Age" required><br>
+      <select name="sex" required>
+        <option value="" disabled selected>Select Gender</option>
+        <option value="1">Male</option>
+        <option value="0">Female</option>
+      </select><br>
+      <input type="number" step="any" name="cp" placeholder="Chest Pain Type (0–3)" required><br>
+      <input type="number" step="any" name="trestbps" placeholder="Resting Blood Pressure" required><br>
+      <input type="number" step="any" name="chol" placeholder="Cholesterol (mg/dL)" required><br>
+      <input type="number" step="any" name="fbs" placeholder="Fasting Blood Sugar > 120 mg/dL (1=True, 0=False)" required><br>
+      <input type="number" step="any" name="restecg" placeholder="Resting ECG (0–2)" required><br>
+      <input type="number" step="any" name="thalach" placeholder="Max Heart Rate" required><br>
+      <input type="number" step="any" name="exang" placeholder="Exercise Induced Angina (1=True, 0=False)" required><br>
+      <input type="number" step="any" name="oldpeak" placeholder="ST Depression" required><br>
+      <input type="number" step="any" name="slope" placeholder="Slope of ST Segment (0–2)" required><br>
+      <input type="number" step="any" name="ca" placeholder="Number of Major Vessels (0–3)" required><br>
+      <input type="number" step="any" name="thal" placeholder="Thal (1–3)" required><br>
 
-  {% if prediction %}
-  <h3>{{ prediction }}</h3>
-  {% endif %}
+      <button type="submit">Predict</button>
+      <button type="reset" class="reset-btn">Reset / New Prediction</button>
+    </form>
+
+    {% if prediction_text %}
+      <div class="result">
+        <p>{{ prediction_text }}</p>
+        <p>{{ confidence }}</p>
+        <p>{{ advice }}</p>
+      </div>
+    {% endif %}
+  </div>
 </body>
 </html>
+cc
