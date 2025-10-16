@@ -1,49 +1,35 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <title>Heart Disease Prediction</title>
-    <style>
-        body { font-family: Arial; max-width: 600px; margin: auto; padding: 20px; }
-        label { display: block; margin-top: 10px; }
-        input { width: 100%; padding: 5px; }
-        button { margin-top: 20px; padding: 10px 20px; }
-        .result { margin-top: 20px; font-weight: bold; color: green; }
-    </style>
+  <meta charset="UTF-8">
+  <title>AI Healthcare - Heart Disease Prediction</title>
+  <style>
+    body { font-family: Arial; text-align: center; background: #f4f6f8; }
+    form { margin: 20px auto; width: 400px; background: #fff; padding: 20px; border-radius: 10px; }
+    input { margin: 5px; padding: 8px; width: 80%; }
+    button { padding: 10px 20px; background: #007BFF; color: white; border: none; border-radius: 5px; }
+    h2 { color: #333; }
+  </style>
 </head>
 <body>
-    <h1>Heart Disease Prediction</h1>
-    <form id="prediction-form">
-        {% for f in features %}
-        <label>{{ f }}</label>
-        <input type="number" step="any" name="{{ f }}" required>
-        {% endfor %}
-        <button type="submit">Predict</button>
-    </form>
-    <div id="result" class="result"></div>
+  <h2>AI Heart Disease Predictor 💖</h2>
+  <form action="/predict" method="post">
+    <input type="number" step="any" name="age" placeholder="Age" required><br>
+    <select name="sex">
+      <option value="1">Male</option>
+      <option value="0">Female</option>
+    </select><br>
+    <input type="number" step="any" name="trestbps" placeholder="Resting Blood Pressure" required><br>
+    <input type="number" step="any" name="chol" placeholder="Cholesterol" required><br>
+    <input type="number" step="any" name="thalach" placeholder="Max Heart Rate" required><br>
+    <input type="number" step="any" name="oldpeak" placeholder="ST Depression" required><br>
+    <input type="number" step="any" name="ca" placeholder="Major Vessels (0-3)" required><br>
+    <input type="number" step="any" name="thal" placeholder="Thalassemia (1–3)" required><br>
+    <button type="submit">Predict</button>
+  </form>
 
-    <script>
-        const form = document.getElementById('prediction-form');
-        form.addEventListener('submit', async function(e) {
-            e.preventDefault();
-            const formData = new FormData(form);
-            let features = {};
-            for (let [key, value] of formData.entries()) {
-                features[key] = parseFloat(value);
-            }
-            try {
-                const response = await fetch('/', {
-                    method: 'POST',
-                    headers: { 'Content-Type': 'application/json' },
-                    body: JSON.stringify({ features: features })
-                });
-                const data = await response.json();
-                document.getElementById('result').innerHTML = 
-                    `Prediction: ${data.prediction} <br> Probability: ${data.probability.toFixed(2)}`;
-            } catch (err) {
-                document.getElementById('result').innerHTML = 'Error: ' + err;
-            }
-        });
-    </script>
+  {% if prediction %}
+  <h3>{{ prediction }}</h3>
+  {% endif %}
 </body>
 </html>

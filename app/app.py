@@ -1,22 +1,23 @@
-from flask import Flask, request, render_template, jsonify
+from flask import Flask, request, render_template
 import joblib
 import numpy as np
 
 app = Flask(__name__)
+model = joblib.load("model/heart_model.pkl")
 
-artifact = joblib.load("../model/heart_model.pkl")
-model = artifact["model"]
-features = artifact["features"]
+@app.route('/')
+def home():
+    return render_template('index.html')
 
-@app.route("/", methods=["GET", "POST"])
-def index():
-    if request.method == "POST":
-        data = request.get_json()
-        x = np.array([data["features"].get(f, 0) for f in features]).reshape(1, -1)
-        prediction = int(model.predict(x)[0])
-        probability = float(model.predict_proba(x)[0][1])
-        return jsonify({"prediction": prediction, "probability": probability})
-    return render_template("index.html", features=features)
+@app.route('/predict', methods=['POST'])
+def predict():
+    try:
+        features = [float(x) for x in request.form.values()]
+        prediction = model.predict([features])[0]
+        result = "🫀 High Risk of Heart Disease" if prediction == 1 else "💚 Low Risk of Heart Disease"
+        return render_template('index.html', prediction=result)
+    except Exception as e:
+        return render_template('index.html', prediction=f"Error: {e}")
 
 if __name__ == "__main__":
     app.run(debug=True)

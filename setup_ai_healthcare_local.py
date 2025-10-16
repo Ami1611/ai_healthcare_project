@@ -183,3 +183,6450 @@ print("✅ Code pushed to GitHub.")
 # -----------------------------
 print("\n✅ Setup complete! Flask app is launching...")
 subprocess.run([os.path.join("venv","Scripts","python"), "app/app.py"])
+======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...======================================= RESTART: C:/Users/Admin/ai_healthcare_project/setup_ai_healthcare_local.py ======================================
+✅ Project folders created.
+✅ Dependencies installed.
+✅ Dataset loaded. Shape: (1025, 14)
+✅ Model trained and saved!
+✅ Flask app.py created.
+✅ HTML template created.
+✅ Git initialized and first commit done.
+❌ Could not create repo: {'message': 'Bad credentials', 'documentation_url': 'https://docs.github.com/rest', 'status': '401'}
+✅ Code pushed to GitHub.
+
+✅ Setup complete! Flask app is launching...
